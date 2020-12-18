@@ -11,3 +11,14 @@ The given number of grades is 24.
 The given Average grade is 83.25.
 The percentage of grades above average is 54.17%. 
 """
+
+"""
+# main:
+    grades from list
+
+# calculate_percent_above_average():
+
+#infile=open the final(1).txt document
+
+
+"""
